@@ -1,0 +1,5 @@
+seaborn
+ipywidgets
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+albumentations
+catalyst
